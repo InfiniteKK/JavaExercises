@@ -11,6 +11,9 @@ public class OutputStreamDemo {
 
         BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("dest2.txt"));
         bos.write(48);
+        bos.write('\r');
+        bos.write('\n');
+        bos.write(96);
         bos.close();
     }
 }
