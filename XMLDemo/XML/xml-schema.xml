@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- -->
+<beans xmlns="http://www.itcast.cn/bean"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.itcast.cn/bean bean-schema.xsd"
+>
+    <bean id="i01" className="c01">
+        <property value="abc"></property>
+    </bean>
+
+    <bean id="i02" className="c02">
+        <property value="123"/>
+    </bean>
+
+</beans>

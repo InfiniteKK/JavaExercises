@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans SYSTEM "bean.dtd">
+<beans>
+    <bean id="class" className="c1">
+        <property name="type" value="small">
+        </property>
+    </bean>
+</beans>
