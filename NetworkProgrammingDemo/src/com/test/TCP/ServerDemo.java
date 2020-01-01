@@ -23,6 +23,5 @@ public class ServerDemo {
         System.out.println("给客户端反馈信息发送成功！");
         serverSocket.close();
         client.close();
-        inputStream.close();
     }
 }
