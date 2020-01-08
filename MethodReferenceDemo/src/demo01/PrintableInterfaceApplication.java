@@ -1,3 +1,5 @@
+package demo01;
+
 public class PrintableInterfaceApplication {
     public static void printString(PrintableInterface p){
         p.print("Hello Java.");
