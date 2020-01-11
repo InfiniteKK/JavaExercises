@@ -1,0 +1,9 @@
+div 方法异常
+异常名称：ArithmeticException
+异常原因：/ by zero
+---------------------------------
+show 方法异常
+异常名称：NullPointerException
+异常原因：null
+---------------------------------
+本次测试共出现2次异常.
